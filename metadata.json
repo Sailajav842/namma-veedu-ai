@@ -1,0 +1,6 @@
+{
+  "name": "Namma Veedu AI",
+  "description": "AI-Powered Smart House Planning Platform for Tamil Nadu featuring Vastu Shastra floor plan generation, live building material rate estimations, and verified local engineer booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
